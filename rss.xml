@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Live Action Events]]></title>
         <description><![CDATA[Live Action Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/live-action-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 18:24:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 18:52:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/live-action-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<article><h1>Music</h1><p>"Do we want a band or a DJ?"</p></article>]]></description>
+            <link>https://thegrid.ai/live-action-events/music/index.html</link>
+            <guid isPermaLink="false">5a47d5d7-dc72-4435-a838-0922804c0e38</guid>
+            <pubDate>Sat, 02 Jan 2016 18:52:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da64e004-21b0-4e87-bb30-485009a16a2b.jpg" alt="" title="">]]></description>
-            <link>undefined5190c44e-a079-4da0-96ed-4bda05144d5f/index.html</link>
+            <link>https://thegrid.ai/live-action-events/5190c44e-a079-4da0-96ed-4bda05144d5f/index.html</link>
             <guid isPermaLink="false">5190c44e-a079-4da0-96ed-4bda05144d5f</guid>
             <pubDate>Sat, 02 Jan 2016 18:24:15 GMT</pubDate>
         </item>
